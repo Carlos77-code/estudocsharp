@@ -1,0 +1,15 @@
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\bin\Debug\net7.0\Heranca.exe
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\bin\Debug\net7.0\Heranca.deps.json
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\bin\Debug\net7.0\Heranca.runtimeconfig.json
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\bin\Debug\net7.0\Heranca.dll
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\bin\Debug\net7.0\Heranca.pdb
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.csproj.AssemblyReference.cache
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfo.cs
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.csproj.CoreCompileInputs.cache
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.dll
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\refint\Heranca.dll
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.pdb
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\Heranca.genruntimeconfig.cache
+D:\carlo\Cursos\C#\Secao 10\Heranca\Heranca\obj\Debug\net7.0\ref\Heranca.dll
